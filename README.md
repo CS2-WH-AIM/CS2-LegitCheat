@@ -10,7 +10,7 @@ Take your CS2 performance to the next level with **WH-AIM LegitMaster** — the 
 - Wallhack (ESP) with player skeletons & glow  
 - Legit-style aimbot with smooth control  
 - Triggerbot and recoil control system  
-- Optimized for ranked and matchmaking  
+- Optimized for ranked and matchmaking   
 - Customizable hotkeys and config saves  
 - Low CPU usage for top-tier performance  
 
